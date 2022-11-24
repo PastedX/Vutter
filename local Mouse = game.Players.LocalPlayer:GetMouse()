@@ -1,7 +1,7 @@
 --bad ADADWS
 
 --1.10 test
-local MaxAxeAmt = "butterisgood" -- new key var
+local MaxAxeAmt = "OTEN SISINONO" -- new key var
 
 if not isfolder("Butter Key") then
     
